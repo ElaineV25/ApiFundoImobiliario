@@ -44,3 +44,5 @@ class FundoImobiliario(models.Model):
         null=False,
         blank=False,
         default=0)
+
+    teste
